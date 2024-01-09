@@ -1,5 +1,5 @@
 import React from "react";
-//import { CgMouse } from "react-icons/all";
+// import { FaCalenderAlt } from "react-icons/fa";
 import "./Home.css";
 
 const Home = () => {
@@ -11,7 +11,7 @@ const Home = () => {
 
             <a href="#container">
               <button>
-               {/* /  Scroll <CgMouse /> */}
+              Scroll {/* <FaCalenderAlt /> */}
               </button>
             </a>
           </div>
