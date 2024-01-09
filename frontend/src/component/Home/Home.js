@@ -1,17 +1,17 @@
 import React from "react";
-// import { FaCalenderAlt } from "react-icons/fa";
+import { CgMouse } from "react-icons/cg";
 import "./Home.css";
 
 const Home = () => {
     return(
        
              <div className="banner">
-            <p>Welcome to Ecommerce</p>
-            <h1>FIND AMAZING PRODUCTS BELOW</h1>
+            <h1>Best Rental Car in your location</h1>
+          
 
             <a href="#container">
               <button>
-              Scroll {/* <FaCalenderAlt /> */}
+              Scroll <CgMouse />
               </button>
             </a>
           </div>
